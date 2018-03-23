@@ -1,5 +1,5 @@
-# ted-programming-talks
-Best programming talks, seen on TED
+# Noable TED Talks on Programming
+### Best programming talks, seen on TED
 
 _Videos are, currently, in no order._
 
